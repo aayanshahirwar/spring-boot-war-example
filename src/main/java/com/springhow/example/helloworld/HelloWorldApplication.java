@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "3. HELLO CDN SOFTWARE SOLUTIONS PVT LTD";
+        return "HELLO AUTOMATIONS TASK WITH MAVEN";
     }
 
 }
