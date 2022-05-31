@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-         return "Hello Auto Task";
+         return "Hello Auto Maven Task";
 
     }
 
